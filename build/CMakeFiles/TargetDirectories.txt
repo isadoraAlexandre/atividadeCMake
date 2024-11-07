@@ -1,0 +1,3 @@
+/mnt/c/users/isado/testeCmake/build/CMakeFiles/teste.dir
+/mnt/c/users/isado/testeCmake/build/CMakeFiles/edit_cache.dir
+/mnt/c/users/isado/testeCmake/build/CMakeFiles/rebuild_cache.dir
